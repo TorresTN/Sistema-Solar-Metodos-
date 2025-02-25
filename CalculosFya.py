@@ -5,6 +5,21 @@ class CalculosGravitacionales:
         # Masa del Sol (fija)
         self.masa_Sol = 1.989e30  # kg
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     def fuerza_gravitacional(self, masa_planeta, distancia):
         """
         Calcula la fuerza gravitacional entre el Sol y un planeta.
